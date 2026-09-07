@@ -1,0 +1,10 @@
+INCIDENT LOG
+
+09:10 — Found suspicious activity.
+09:12 — Investigated.
+09:14 — It was my own account.
+
+09:30 — Found another suspicious file.
+09:31 — Forgot why I created it.
+
+Security research is going perfectly.
