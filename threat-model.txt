@@ -1,0 +1,14 @@
+THREAT MODEL
+
+Possible threats:
+
+Hackers       — scary
+Malware       — scary
+Phishing      — annoying
+Weak passwords — my biggest enemy
+
+Risk level:
+
+Probably fine.
+
+Famous last words.
